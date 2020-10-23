@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9763c2d9-1ad5-4e90-bb13-18a3a8d5fae2" name="Default Changelist" comment="" />
+    <list default="true" id="9763c2d9-1ad5-4e90-bb13-18a3a8d5fae2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/org/Controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/org/Controller/HelloController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +27,11 @@
         <option name="mavenHome" value="E:/Tools/apache-maven-3.6.0" />
         <option name="userSettingsFile" value="E:\Tools\apache-maven-3.6.0\conf\settings.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1hrKyQzj4jpHKrqulaJf43OBOdx" />
@@ -100,6 +108,7 @@
       <workItem from="1603260770187" duration="5950000" />
       <workItem from="1603342965047" duration="4051000" />
       <workItem from="1603440882536" duration="125000" />
+      <workItem from="1603442348984" duration="195000" />
     </task>
     <servers />
   </component>
